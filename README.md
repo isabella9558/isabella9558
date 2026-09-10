@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Isabella (@isabella9558)
 
-<!--
-**isabella9558/isabella9558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Sydney. I build lean web products, internal tools, and open-source utilities.
 
-Here are some ideas to get you started:
+### Focus
+- Shipping micro-SaaS experiments
+- Exploring lightweight, local-first app patterns with SQLite
+- Writing clean backend services with FastAPI and TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- **Languages:** TypeScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** FastAPI, Node.js
+- **Database:** SQLite, PostgreSQL
+- **Deployment:** Docker, Fly.io, GitHub Actions
+
+### Connect
+- GitHub: Open an issue or PR on any public repo
+- Web: https://isabella9558.dev
+- X / Twitter: https://x.com/isabella9558
